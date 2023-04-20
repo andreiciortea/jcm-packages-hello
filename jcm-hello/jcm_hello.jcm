@@ -1,0 +1,22 @@
+/*
+    jcm_hello
+    ---------------------------
+
+    JaCaMo Application File
+
+    This file defines the initial state of the MAS (initial agents, environment, organisation, ....)
+
+    (see jacamo/doc/jcm.html for more information about what can be defined in this file)
+
+    JaCaMo 1.0-SNAPSHOT
+    April 20, 2023 - 17:35:56
+*/
+
+mas jcm_hello {
+
+    agent bob: sample_agent.asl
+
+    
+
+}
+
